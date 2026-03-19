@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',        # ye add karo
+    'rest_framework_simplejwt',  # ye add karo
+    'menu',                  # ye add karo
 ]
 
 MIDDLEWARE = [
